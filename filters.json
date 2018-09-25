@@ -13,5 +13,13 @@
         "values": [
             "light"
         ]
+    },
+    {
+        "name": "body",
+        "assume": 3,
+        "values": [
+            "none",
+            "normal"
+        ]
     }
 ]

@@ -1,2 +1,22 @@
 {
+    "sc": {
+        "frames": 7,
+        "directions": 4,
+        "name": "spellcast"
+    },
+    "wc": {
+        "frames": 9,
+        "directions": 4,
+        "name": "walk"
+    },
+    "sl": {
+        "frames": 6,
+        "directions": 4,
+        "name": "slash"
+    },
+    "hu": {
+        "frames": 6,
+        "directions": 1,
+        "name": "hurt"
+    }
 }

@@ -1,0 +1,10 @@
+[
+    "male/male_hurt.tsx",
+    "male/male_slash.tsx",
+    "male/male_spellcast.tsx",
+    "male/male_walkcycle.tsx",
+    "female/female_hurt.tsx",
+    "female/female_slash.tsx",
+    "female/female_spellcast.tsx",
+    "female/female_walkcycle.tsx"
+]
