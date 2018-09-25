@@ -23,5 +23,5 @@ Meta data (.tsx, .json) and palettes (.gpl) don't reach the threshold of origina
 Links
 -----
 
-http://lpc.opengameart.org/
-https://opengameart.org/content/lpc-collection
+* http://lpc.opengameart.org/
+* https://opengameart.org/content/lpc-collection
