@@ -1,0 +1,81 @@
+
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <title>Universal LPC Sprite Sheet Character Generator</title>
+  <link rel="stylesheet" type="text/css" href="generator/css/generator.css">
+  <script type="text/javascript" src="generator/js/tools.js"></script>
+  <script type="text/javascript" src="generator/js/spritesheet.js"></script>
+  <script type="text/javascript" src="generator/js/spriteset.js"></script>
+  <script type="text/javascript" src="generator/js/category.js"></script>
+  <script type="text/javascript" src="generator/js/author.js"></script>
+  <script type="text/javascript" src="generator/js/assetmanager.js"></script>
+  <script type="text/javascript" src="generator/js/character.js"></script>
+  <script type="text/javascript" src="generator/js/filter.js"></script>
+  <script type="text/javascript" src="generator/libs/jhash-2.1.js"></script>
+  <script type="text/javascript" src="generator/js/generator.js"></script>
+  <script type="text/javascript">
+    window.onload=function (){
+      assetManager.setBaseDir('./');
+      assetManager.defaultAnimation = 'wc';
+      assetManager.allign = 'c';
+      lpcGenerator = new LpcGenerator(new Character(jHash.val()));
+      lpcGenerator.onLoad();
+    };
+  </script>
+</head>
+<body>
+  <div id="generator" class="hidden">
+    <div class="row" id="top">
+      <section id="buttons"></section>
+      <section id="previewAnimationsBox" class="col-md-5">
+        Preview Animation:
+        <select id="whichAnim">
+        </select>
+        <canvas id="previewAnimations" width="1" height="1"></canvas>
+      </section>
+    </div>
+    <div class="row" id="main">
+      <form id="customizeChar">
+        <section id="chooser">
+          <header class="instr">Select from the character configuration options below.</header>
+          <ul>
+            <li class="keep">
+              <span class="expanded">Sex</span>
+              <ul style="display: block;">
+                <li>
+                  <label><input type="radio" value="sex.male" name="sex">♂ Male</label>
+                </li>
+                <li>
+                  <label><input type="radio" value="sex.female" name="sex">♀ Female</label>
+                </li>
+              </ul>
+            </li>
+            <li class="keep">
+              <span class="expanded">Skin</span>
+              <ul style="display: block;">
+                <li>
+                  <label><input type="radio" value="skin.light" name="skin"><span class="box" style="background-color:#EAA377"></span> Light</label>
+                </li>
+            </li>
+          </ul>
+        </section>
+      </form>
+      <section id="preview">
+        <header class="instr">The complete resulting sprite sheet for your character:</header>
+        <div>
+          <canvas id="spritesheet" width="1" height="1">HTML5 Browser required.</canvas>
+        </div>
+      </section>
+      <section id="attribution" class="hidden">
+        <header class="instr">Attributions:</header>
+        <p class="attribution"></p>
+      </section>
+    </div>
+  </div>
+  <div id="loading"></div>
+</body>
+</html>

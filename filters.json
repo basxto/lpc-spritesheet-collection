@@ -1,0 +1,17 @@
+[
+    {
+        "name": "sex",
+        "default": "male",
+        "values": [
+            "male",
+            "female"
+        ]
+    },
+    {
+        "name": "skin",
+        "default": "light",
+        "values": [
+            "light"
+        ]
+    }
+]
