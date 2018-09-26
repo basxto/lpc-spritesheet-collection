@@ -1,6 +1,26 @@
 [
     "body/",
-    "hair/",
+    {
+        "file": "hair/",
+        "palette": "hair/brown",
+        "filters": {
+            "hair_color": 1
+        }
+    },
+    {
+        "file": "hair/",
+        "palette": "hair/gold",
+        "filters": {
+            "hair_color": 2
+        }
+    },
+    {
+        "file": "hair/",
+        "palette": "hair/green",
+        "filters": {
+            "hair_color": 4
+        }
+    },
     "fullbody/lower/",
     "fullbody/upper/",
     "legs/lower/",

@@ -1,6 +1,16 @@
 {
     "layer": 6,
     "files": [
-        "female/princess.xcf.under_dress.tsx"
+        "female/princess.xcf.under_dress.tsx",
+        {
+            "file": "female/princess.xcf.under_dress.tsx",
+            "palette": "cloth/green",
+            "name": "green"
+        },
+        {
+            "file": "female/princess.xcf.under_dress.tsx",
+            "palette": "cloth/lightblue",
+            "name": "light blue"
+        }
     ]
 }

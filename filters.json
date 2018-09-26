@@ -18,7 +18,9 @@
         "name": "hair_color",
         "default": "brown",
         "values": [
-            "brown"
+            "brown",
+            "gold",
+            "green"
         ]
     },
     {

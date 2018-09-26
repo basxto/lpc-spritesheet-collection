@@ -1,6 +1,16 @@
 {
     "layer": 5,
     "files": [
-        "male/pants/"
+        "male/pants/",
+        {
+            "file": "male/pants/",
+            "palette": "cloth/lightblue",
+            "name": "light blue"
+        },
+        {
+            "file": "male/pants/",
+            "palette": "cloth/white",
+            "name": "white"
+        }
     ]
 }
