@@ -1,6 +1,76 @@
 [
     "body/",
     {
+        "file": "body/",
+        "palette": "skin/ivory",
+        "filters": {
+            "skin": 1
+        }
+    },
+    {
+        "file": "body/",
+        "palette": "skin/gold",
+        "filters": {
+            "skin": 2
+        }
+    },
+    {
+        "file": "body/",
+        "palette": "skin/sienna",
+        "filters": {
+            "skin": 4
+        }
+    },
+    {
+        "file": "body/",
+        "palette": "skin/copper",
+        "filters": {
+            "skin": 8
+        }
+    },
+    {
+        "file": "body/",
+        "palette": "skin/coffee",
+        "filters": {
+            "skin": 16
+        }
+    },
+    {
+        "file": "body/",
+        "palette": "skin/comet",
+        "filters": {
+            "skin": 32
+        }
+    },
+    {
+        "file": "body/",
+        "palette": "skin/dove",
+        "filters": {
+            "skin": 64
+        }
+    },
+    {
+        "file": "body/",
+        "palette": "skin/gray",
+        "filters": {
+            "skin": 128
+        }
+    },
+    {
+        "file": "body/",
+        "palette": "skin/lime",
+        "filters": {
+            "skin": 256
+        }
+    },
+    {
+        "file": "body/",
+        "palette": "skin/green",
+        "filters": {
+            "skin": 512
+        }
+    },
+    {
         "file": "hair/",
         "palette": "hair/brown",
         "filters": {

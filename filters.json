@@ -9,9 +9,18 @@
     },
     {
         "name": "skin",
-        "default": "light",
+        "default": "ivory",
         "values": [
-            "light"
+            "ivory",
+            "gold",
+            "sienna",
+            "copper",
+            "coffee",
+            "comet",
+            "dove",
+            "gray",
+            "lime",
+            "green"
         ]
     },
     {

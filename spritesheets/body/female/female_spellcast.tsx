@@ -5,7 +5,7 @@
   <property name="category" value="body"/>
   <property name="filter_sex" type="int" value="2"/>
   <property name="license" value="CC BY-SA 3.0;GNU GPL 3.0"/>
-  <property name="palette" value="skin/white"/>
+  <property name="palette" value="skin/ivory"/>
   <property name="title" value="female spellcasting animation"/>
   <property name="url" value="http://lpc.opengameart.org/static/lpc-style-guide/assets.html"/>
  </properties>

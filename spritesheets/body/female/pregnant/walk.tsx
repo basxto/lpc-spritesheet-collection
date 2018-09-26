@@ -7,7 +7,7 @@
   <property name="category" value="body"/>
   <property name="filter_sex" type="int" value="2"/>
   <property name="license" value="CC BY-SA 3.0;GNU GPL 3.0"/>
-  <property name="palette" value="skin/white"/>
+  <property name="palette" value="skin/ivory_elizawy"/>
   <property name="title" value="[LPC] Pregnancy Bases &amp; Maternity Wear"/>
   <property name="url" value="https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear"/>
  </properties>

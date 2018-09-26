@@ -5,7 +5,7 @@
   <property name="category" value="body"/>
   <property name="filter_sex" type="int" value="3"/>
   <property name="license" value="CC BY-SA 3.0;OGA BY 3.0; CC0"/>
-  <property name="palette" value="skin/white"/>
+  <property name="palette" value="skin/ivory"/>
   <property name="title" value="LPC Child Standing Template"/>
   <property name="url" value="https://opengameart.org/content/lpc-child-standing-template"/>
  </properties>

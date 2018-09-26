@@ -7,7 +7,7 @@
   <property name="category" value="body"/>
   <property name="filter_sex" type="int" value="1"/>
   <property name="license" value="CC BY-SA 3.0"/>
-  <property name="palette" value="skin/white"/>
+  <property name="palette" value="skin/ivory"/>
   <property name="title" value="[LPC] Muscular Swing Animation"/>
   <property name="url" value="https://opengameart.org/content/lpc-muscular-swing-animation"/>
  </properties>
