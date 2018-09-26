@@ -5,9 +5,22 @@
         "male/male_slash.tsx",
         "male/male_spellcast.tsx",
         "male/male_walkcycle.tsx",
+        "male/muscular/lpc_barbarian_walk.tsx",
+        "male/muscular/lpc_barbarian_walk_swing.tsx",
+        "male/muscular/Hurt, body.tsx",
+        "male/muscular/Swing, v1.tsx",
         "female/female_hurt.tsx",
         "female/female_slash.tsx",
         "female/female_spellcast.tsx",
-        "female/female_walkcycle.tsx"
+        "female/female_walkcycle.tsx",
+        "female/pregnant/idle.tsx",
+        "female/pregnant/walk.tsx",
+        "child/ChildStanding.tsx",
+        "teen/idle.tsx",
+        "teen/walk.tsx",
+        "teen/idle_magic.tsx",
+        "teen/magic.tsx",
+        "teen/swing.tsx",
+        "teen/hurt.tsx"
     ]
 }

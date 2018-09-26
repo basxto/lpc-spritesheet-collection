@@ -1,0 +1,9 @@
+{
+    "layer": 2,
+    "files": [
+        "walkcycle/BODY_skeleton.tsx",
+        "slash/BODY_skeleton.tsx",
+        "hurt/BODY_skeleton.tsx",
+        "spellcast/BODY_skeleton.tsx"
+    ]
+}

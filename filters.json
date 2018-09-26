@@ -25,10 +25,15 @@
     },
     {
         "name": "body",
-        "assume": 3,
+        "assume": 67,
         "values": [
             "none",
-            "normal"
+            "normal",
+            "child",
+            "teen",
+            "muscular",
+            "pregnant",
+            "skeleton"
         ]
     }
 ]
