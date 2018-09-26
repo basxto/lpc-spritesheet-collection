@@ -1,3 +1,10 @@
 [
-    "body/"
+    "body/",
+    "hair/",
+    "fullbody/lower/",
+    "fullbody/upper/",
+    "legs/lower/",
+    "legs/upper/",
+    "torso/lower/",
+    "torso/upper/"
 ]

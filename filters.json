@@ -15,6 +15,13 @@
         ]
     },
     {
+        "name": "hair_color",
+        "default": "brown",
+        "values": [
+            "brown"
+        ]
+    },
+    {
         "name": "body",
         "assume": 3,
         "values": [
