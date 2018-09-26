@@ -14,6 +14,26 @@
         "directions": 4,
         "name": "slash"
     },
+    "th": {
+        "frames": 8,
+        "directions": 4,
+        "name": "thrust"
+    },
+    "sh": {
+        "frames": 13,
+        "directions": 4,
+        "name": "shoot"
+    },
+    "gs": {
+        "frames": 9,
+        "directions": 4,
+        "name": "shoot with gun"
+    },
+    "ru": {
+        "frames": 8,
+        "directions": 4,
+        "name": "run"
+    },
     "hu": {
         "frames": 6,
         "directions": 1,
