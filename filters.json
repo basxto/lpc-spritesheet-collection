@@ -25,10 +25,16 @@
     },
     {
         "name": "hair_color",
-        "default": "brown",
+        "default": "brunet",
         "values": [
-            "brown",
-            "gold",
+            "brunet",
+            "blond",
+            "raven",
+            "redhead",
+            "whiteblond",
+            "white",
+            "pink",
+            "blue",
             "green"
         ]
     },

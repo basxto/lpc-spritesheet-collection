@@ -72,23 +72,65 @@
     },
     {
         "file": "hair/",
-        "palette": "hair/brown",
+        "palette": "hair/brunet",
         "filters": {
             "hair_color": 1
         }
     },
     {
         "file": "hair/",
-        "palette": "hair/gold",
+        "palette": "hair/blond",
         "filters": {
             "hair_color": 2
         }
     },
     {
         "file": "hair/",
-        "palette": "hair/green",
+        "palette": "hair/raven",
         "filters": {
             "hair_color": 4
+        }
+    },
+    {
+        "file": "hair/",
+        "palette": "hair/redhead",
+        "filters": {
+            "hair_color": 8
+        }
+    },
+    {
+        "file": "hair/",
+        "palette": "hair/whiteblond",
+        "filters": {
+            "hair_color": 16
+        }
+    },
+    {
+        "file": "hair/",
+        "palette": "hair/white",
+        "filters": {
+            "hair_color": 32
+        }
+    },
+    {
+        "file": "hair/",
+        "palette": "hair/pink",
+        "filters": {
+            "hair_color": 64
+        }
+    },
+    {
+        "file": "hair/",
+        "palette": "hair/blue",
+        "filters": {
+            "hair_color": 128
+        }
+    },
+    {
+        "file": "hair/",
+        "palette": "hair/green",
+        "filters": {
+            "hair_color": 256
         }
     },
     "body/male/skeleton/",

@@ -21,6 +21,8 @@
         "teen/idle_magic.tsx",
         "teen/magic.tsx",
         "teen/swing.tsx",
-        "teen/hurt.tsx"
+        "teen/hurt.tsx",
+        "male/ears/LongEars_male_n.tsx",
+        "female/ears/LongEars_female_n.tsx"
     ]
 }

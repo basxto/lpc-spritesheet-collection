@@ -7,7 +7,7 @@
   <property name="filter_hair_color" type="int" value="1"/>
   <property name="filter_sex" type="int" value="2"/>
   <property name="license" value="CC BY-SA 3.0;GNU GPL 3.0"/>
-  <property name="palette" value="hair/brown"/>
+  <property name="palette" value="hair/brunet_highlight"/>
   <property name="title" value="“princess” example character"/>
   <property name="url" value="http://lpc.opengameart.org/static/lpc-style-guide/assets.html"/>
  </properties>

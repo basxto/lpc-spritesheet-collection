@@ -1,6 +1,10 @@
 {
     "layer": 20,
     "files": [
-        "female/princess.xcf.hair.tsx"
+        "female/princess.xcf.hair.tsx",
+        "female/brunette.tsx",
+        "male/brunette.tsx",
+        "male/facial/brunettemustache_0.tsx",
+        "male/facial/whitebeard.tsx"
     ]
 }
