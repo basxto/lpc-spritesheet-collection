@@ -1,9 +1,11 @@
 {
     "category": "legs;pants",
     "files": [
-        "male_hurt.tsx",
-        "male_pants.tsx",
-        "male_slash_pants.tsx",
-        "male_spellcast_pants.tsx"
+        "walkcycle/LEGS_pants_greenish.tsx",
+        "thrust/LEGS_pants_greenish.tsx",
+        "bow/LEGS_pants_greenish.tsx",
+        "hurt/LEGS_pants_greenish.tsx",
+        "slash/LEGS_pants_greenish.tsx",
+        "spellcast/LEGS_pants_greenish.tsx"
     ]
 }

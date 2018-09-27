@@ -135,7 +135,16 @@
     "body/male/skeleton/",
     "fullbody/lower/",
     "fullbody/upper/",
-    "legs/lower/",
+    {
+        "file": "legs/lower/",
+        "palette": "cloth/white",
+        "name": "white"
+    },
+    {
+        "file": "legs/lower/",
+        "palette": "cloth/brown",
+        "name": "brown"
+    },
     "legs/upper/",
     "torso/lower/",
     "torso/upper/"

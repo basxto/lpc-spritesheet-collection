@@ -1,0 +1,12 @@
+{
+    "category": "legs;pants",
+    "files": [
+        "idle.tsx",
+        "walk.tsx",
+        "magic.tsx",
+        "hurt.tsx",
+        "shoot.tsx",
+        "thrust.tsx",
+        "swing.tsx"
+    ]
+}

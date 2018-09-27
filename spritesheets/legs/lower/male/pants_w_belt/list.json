@@ -1,0 +1,9 @@
+{
+    "category": "legs;pants_with_belt",
+    "files": [
+        "male_hurt.tsx",
+        "male_pants.tsx",
+        "male_slash_pants.tsx",
+        "male_spellcast_pants.tsx"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "category": "legs;pants",
+    "files": [
+        "idle.tsx",
+        "walk.tsx",
+        "Hurt, pants.tsx",
+        "Swing, pants.tsx"
+    ]
+}

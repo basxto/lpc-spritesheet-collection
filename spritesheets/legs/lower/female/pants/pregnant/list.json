@@ -1,0 +1,7 @@
+{
+    "category": "legs;pants",
+    "files": [
+        "idle.tsx",
+        "walk.tsx"
+    ]
+}
