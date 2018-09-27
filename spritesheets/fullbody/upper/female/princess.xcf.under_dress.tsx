@@ -3,7 +3,7 @@
  <properties>
   <property name="animation" type="file" value="../../../body/female/female_walkcycle.tsx"/>
   <property name="author" value="sharm"/>
-  <property name="category" value="upper_fullbody"/>
+  <property name="category" value="dress;princess"/>
   <property name="filter_sex" type="int" value="2"/>
   <property name="license" value="CC BY-SA 3.0;GNU GPL 3.0"/>
   <property name="palette" value="cloth/white"/>

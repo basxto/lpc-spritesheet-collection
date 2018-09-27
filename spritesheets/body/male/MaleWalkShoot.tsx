@@ -2,9 +2,9 @@
 <tileset version="1.2" tiledversion="1.2.0" name="normal" tilewidth="64" tileheight="64" tilecount="36" columns="9">
  <properties>
   <property name="author" value="skorpio"/>
+  <property name="basedOn" value="male_walkcycle.tsx"/>
   <property name="category" value="body"/>
   <property name="filter_sex" type="int" value="1"/>
-  <property name="filter_skin" type="int" value="1"/>
   <property name="license" value="GNU GPL 3.0;CC BY-SA 3.0"/>
   <property name="palette" value="skin/ivory"/>
   <property name="title" value="[LPC] Skorpio's SciFi Sprite Pack"/>

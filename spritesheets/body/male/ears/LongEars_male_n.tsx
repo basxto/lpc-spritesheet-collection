@@ -37,6 +37,30 @@
    <property name="direction" type="int" value="1"/>
   </properties>
  </tile>
+ <tile id="52">
+  <properties>
+   <property name="animation" value="th"/>
+   <property name="direction" value="2"/>
+  </properties>
+ </tile>
+ <tile id="65">
+  <properties>
+   <property name="animation" value="th"/>
+   <property name="direction" value="3"/>
+  </properties>
+ </tile>
+ <tile id="78">
+  <properties>
+   <property name="animation" value="th"/>
+   <property name="direction" value="0"/>
+  </properties>
+ </tile>
+ <tile id="91">
+  <properties>
+   <property name="animation" value="th"/>
+   <property name="direction" value="1"/>
+  </properties>
+ </tile>
  <tile id="104">
   <properties>
    <property name="animation" value="wc"/>
@@ -83,6 +107,30 @@
   <properties>
    <property name="animation" value="sl"/>
    <property name="direction" type="int" value="1"/>
+  </properties>
+ </tile>
+ <tile id="208">
+  <properties>
+   <property name="animation" value="sh"/>
+   <property name="direction" value="2"/>
+  </properties>
+ </tile>
+ <tile id="221">
+  <properties>
+   <property name="animation" value="sh"/>
+   <property name="direction" value="3"/>
+  </properties>
+ </tile>
+ <tile id="234">
+  <properties>
+   <property name="animation" value="sh"/>
+   <property name="direction" value="0"/>
+  </properties>
+ </tile>
+ <tile id="247">
+  <properties>
+   <property name="animation" value="sh"/>
+   <property name="direction" value="1"/>
   </properties>
  </tile>
  <tile id="260">

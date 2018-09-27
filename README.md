@@ -1,6 +1,7 @@
 LPC Spritesheet Collection
 ==========================
 
+
 This makes use of [Universal Spritesheet Character Generator](https://github.com/basxto/Universal-Spritesheet-Character-Generator)
 
 Goals
@@ -12,6 +13,12 @@ Goals
 * Find original spritesheets
 * Automate as much as possible
 * Generate custom characters
+* Even ugly, broken and outdated will be included, but likely hidden from the gui
+
+Exclusion
+---------
+
+Assets that can not be clearly attributed and linked, will not be included.
 
 License
 -------

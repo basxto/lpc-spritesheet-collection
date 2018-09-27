@@ -30,6 +30,8 @@
         "teen/shoot.tsx",
         "teen/thrust.tsx",
         "male/ears/LongEars_male_n.tsx",
-        "female/ears/LongEars_female_n.tsx"
+        "female/ears/LongEars_female_n.tsx",
+        "male/shadow/",
+        "female/shadow/"
     ]
 }
